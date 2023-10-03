@@ -1,6 +1,6 @@
 # Integral-Calculator-Using-Trapezoidal-Rule
 This project is a calculator for integrals using the **Trapezoidal Rule of Integration**. 
-You can input an equation and the number of trapezoids you want to use.
+It is presented with a graphical user interface, almost similar to an actual computer calculator interface. You can input an equation and the number of trapezoids you want to use.
 
 **INSTRUCTIONS:**
 To run the program locally on your computer, please make sure that the following are installed.
